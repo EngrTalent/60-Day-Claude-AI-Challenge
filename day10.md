@@ -20,4 +20,4 @@ If you're a student still waiting to "do more" before putting yourself out there
 <img width="1915" height="961" alt="image" src="https://github.com/user-attachments/assets/45d9ba01-5598-4f4b-bf3f-9e499fa0e5f5" />
 <img width="1919" height="936" alt="image" src="https://github.com/user-attachments/assets/a2cb4921-67a0-4746-8dc5-1eb8bb4c1759" />
 <img width="1913" height="942" alt="image" src="https://github.com/user-attachments/assets/18760dfa-b86d-4c53-90c5-a84ba6831250" />
-![Uploading image.png…]()
+<img width="1913" height="942" alt="image" src="https://github.com/user-attachments/assets/08f9ae64-4702-45eb-872f-4adce944909c" />
