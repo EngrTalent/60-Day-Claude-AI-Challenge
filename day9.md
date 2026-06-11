@@ -23,8 +23,11 @@ Built something I'm genuinely proud of: NutriScope Pro, a precision nutrition in
 
 This was built as a single HTML file, no frameworks, no npm, no backend. Just clean HTML, CSS, and JavaScript working together.
 
-<img width="1898" height="931" alt="Screenshot 2026-06-10 120639" src="https://github.com/user-attachments/assets/4337f362-7bd1-4c90-95ec-5dea9a362484" />
-<img width="1896" height="946" alt="Screenshot 2026-06-10 120656" src="https://github.com/user-attachments/assets/bf5a6a34-2572-493a-a51b-bb230d16f0c0" />
-<img width="1913" height="714" alt="Screenshot 2026-06-10 120709" src="https://github.com/user-attachments/assets/e4bcb1dc-dc47-4e4c-81b9-0207f2d3b3d5" />
-<img width="1919" height="951" alt="Screenshot 2026-06-10 120724" src="https://github.com/user-attachments/assets/6a8d8ba5-5578-4d8c-b89a-032704934b84" />
-<img width="1913" height="939" alt="Screenshot 2026-06-10 120742" src="https://github.com/user-attachments/assets/1d99273c-e087-4d9b-837c-57c859a569de" />
+<img width="1911" height="946" alt="image" src="https://github.com/user-attachments/assets/4c009334-3d5e-4278-a56a-c773da8b607d" />
+<img width="1919" height="954" alt="image" src="https://github.com/user-attachments/assets/86936fa8-d895-48ac-bd2c-7856b072a411" />
+<img width="1919" height="940" alt="image" src="https://github.com/user-attachments/assets/df80b4ab-4e80-4203-a2e3-f512bd172718" />
+<img width="1919" height="945" alt="image" src="https://github.com/user-attachments/assets/f5bb2079-1ec2-495e-9035-05311751fdbb" />
+<img width="1915" height="944" alt="image" src="https://github.com/user-attachments/assets/aab21f06-053e-4618-92b5-d6ffd1672c83" />
+<img width="1911" height="918" alt="image" src="https://github.com/user-attachments/assets/e941b600-b1e4-4b35-acd5-6a7769e2c7a0" />
+<img width="1919" height="925" alt="image" src="https://github.com/user-attachments/assets/5d2650ed-1094-4ce3-99d4-0adfca442867" />
+<img width="1919" height="935" alt="image" src="https://github.com/user-attachments/assets/94f72396-ae44-469e-b27e-1e7f1334ca98" />
