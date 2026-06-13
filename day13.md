@@ -20,7 +20,7 @@ What I learnt:
 → Remote ML roles for Nigerian engineers live on LinkedIn and Wellfound, not Indeed.
 → Salary data is almost never disclosed on Nigerian listings. Widening my compensation lens to USD-denominated remote roles opens a much bigger door.
 
-Learnt that that's what AI-assisted career development looks like in 2025. 
+Learnt that that's what AI-assisted career development looks like in 2026. 
 It's not replacing the job search, but making it smarter, faster, and more strategic.
 
 <img width="1904" height="946" alt="image" src="https://github.com/user-attachments/assets/e40af1e7-4a89-4f43-a1fc-055b8f92d8d5" />
