@@ -25,6 +25,11 @@ Tata Motors' P/E looked oddly distorted until I traced it to a one-off accountin
 HDFC Bank's falling ROE looked like weakness until I connected it to the HDFC Ltd merger diluting the equity base. 
 Context turns raw numbers into an actual read on a business.
 
-<img width="1080" height="1630" alt="TCS_TataMotors_HDFCBank_LinkedIn_Card" src="https://github.com/user-attachments/assets/47f69427-43cb-4bf7-8226-93bd028e4faa" />                                                      
-<img width="1100" height="1289" alt="TCS_TataMotors_HDFCBank_Interactive_Dashboard_Downloadable" src="https://github.com/user-attachments/assets/4468a7c1-9343-496e-9d0d-55a9167f2427" />
-<img width="661" height="546" alt="Screenshot 2026-06-17 060320" src="https://github.com/user-attachments/assets/91df28fd-e7e2-4149-abb4-bd70dfa65032" />
+<img width="1080" height="1350" alt="Carousel_01_Overview" src="https://github.com/user-attachments/assets/6e55ea89-5bcf-45f7-b9ac-450d6f77a67e" />
+<img width="1080" height="1350" alt="Carousel_02_Valuation" src="https://github.com/user-attachments/assets/d5a06c4b-02e8-4467-801e-37f9276bca2a" />
+<img width="1080" height="1350" alt="Carousel_03_Growth" src="https://github.com/user-attachments/assets/b85d5b8d-3d4f-4e80-915a-f23bbede0a19" />
+<img width="1080" height="1350" alt="Carousel_04_Ownership" src="https://github.com/user-attachments/assets/5f132991-2c07-4d87-8a1c-c6d1a97a94d8" />
+<img width="1080" height="1350" alt="Carousel_05_Risk" src="https://github.com/user-attachments/assets/54f39475-37fc-449c-9e4f-41ae8c5234c9" />
+<img width="1100" height="1289" alt="TCS_TataMotors_HDFCBank_Interactive_Dashboard_Downloadable" src="https://github.com/user-attachments/assets/1b917fbe-af69-473f-aae9-7a5baadf8435" />
+<img width="1080" height="1630" alt="TCS_TataMotors_HDFCBank_LinkedIn_Card" src="https://github.com/user-attachments/assets/47c28d54-f02c-4cbf-b453-209903155979" />
+
