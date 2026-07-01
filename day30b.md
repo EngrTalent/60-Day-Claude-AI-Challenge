@@ -38,5 +38,3 @@ You just have to begin📌.
 Here's to the next 30 days of learning, building, and creating.🚀
 
 <img width="1024" height="1536" alt="ChatGPT Image Jun 30, 2026, 11_53_09 PM" src="https://github.com/user-attachments/assets/9a82f7d2-bff3-4b3f-9ae5-deef2c43a08b" />
-
-#60DaysClaudeChallenge #ABTalks #ClaudeAI #ArtificialIntelligence #GenerativeAI #PromptEngineering #AIWorkflows #AIAutomation #FutureOfWork #Innovation #ContinuousLearning #TechWithEngrTee #BuildInPublic #CareerGrowth #TechCommunity #AI
