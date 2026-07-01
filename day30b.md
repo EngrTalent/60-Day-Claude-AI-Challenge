@@ -5,14 +5,12 @@ But guess what, I realized I was actually learning how to think differently😌.
 That's the biggest surprise of my 60-Day Claude AI Challenge with ABTalks.
 
 Over the past 30 days, I've built everything from healthcare simulators and startup validation tools to supply chain decision engines and interactive learning experiences.
-But the projects aren't what I'm most proud of.
-It's the mindset they've helped me develop💯.
+But the projects aren't what I'm most proud of, it's the mindset they've helped me develop💯.
 
 Every day forced me to ask better questions.
 Every prompt taught me that the quality of an AI's output depends heavily on the quality of the thinking behind it📌.
 
-And every project reminded me that AI isn't just about automation.
-It's about turning ideas into things people can actually use.
+And every project reminded me that AI isn't just about automation, it's about turning ideas into things people can actually use.
 
 Looking back, a few lessons stand out:
 💡 Great prompts begin with clear thinking.
