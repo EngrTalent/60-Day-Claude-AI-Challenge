@@ -41,6 +41,12 @@ But the reasoning behind it matters even more😉.
 
 Day 31/60 of my Claude AI Mastery Challenge.
 
+<img width="576" height="412" alt="Screenshot 2026-07-02 032008" src="https://github.com/user-attachments/assets/f2b00eb9-abcd-461b-abed-e06f971af085" />
+<img width="1909" height="591" alt="Screenshot 2026-07-02 032448" src="https://github.com/user-attachments/assets/e08f6626-c1f5-4c9a-82c7-515523353fac" />
+<img width="1916" height="556" alt="Screenshot 2026-07-02 032517" src="https://github.com/user-attachments/assets/c03a43e4-1eaa-4b06-b3ac-8c5c4a6835d4" />
+<img width="671" height="778" alt="Screenshot 2026-07-02 032747" src="https://github.com/user-attachments/assets/c0969ab5-0d12-4310-b597-04b955536e62" />
+
+
 In your field, what's one decision that looks simple on the surface, but is actually full of trade-offs?
 
 #ABTalks #ClaudeAI #SystemsThinking #Leadership #SupplyChain #PromptEngineering #BuildInPublic
