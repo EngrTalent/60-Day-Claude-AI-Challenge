@@ -34,6 +34,13 @@ That's a skill that matters far beyond the internet.
 
 Day 33/60 of my Claude AI Mastery Challenge.
 
+<img width="1019" height="710" alt="Screenshot 2026-07-03 065545" src="https://github.com/user-attachments/assets/ea998b77-5cac-4730-b7c2-263bc2b8a0de" />
+<img width="911" height="905" alt="Screenshot 2026-07-03 071050" src="https://github.com/user-attachments/assets/55079f9f-ecee-4bee-aab5-31b308706f8a" />
+<img width="912" height="931" alt="Screenshot 2026-07-03 071105" src="https://github.com/user-attachments/assets/1204b36e-b03e-429f-b8d8-ab0a329bef3d" />
+<img width="883" height="930" alt="Screenshot 2026-07-03 071254" src="https://github.com/user-attachments/assets/ebbb9baa-84e6-41f7-9734-67e364123f8c" />
+<img width="905" height="944" alt="Screenshot 2026-07-03 071306" src="https://github.com/user-attachments/assets/adc5b3af-9917-4b58-a8b0-382413fbb645" />
+<img width="897" height="944" alt="Screenshot 2026-07-03 071327" src="https://github.com/user-attachments/assets/bac35379-b1d3-40ce-8604-8a7e208e5672" />
+
 What's one habit you've developed to avoid being influenced by misleading headlines or emotionally charged posts?
 #ABTalks #ClaudeAI #MediaLiteracy #CriticalThinking #BuildInPublic #PromptEngineering #DigitalLiteracy
 
