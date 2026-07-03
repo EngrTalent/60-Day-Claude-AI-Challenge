@@ -41,7 +41,3 @@ Day 33/60 of my Claude AI Mastery Challenge.
 <img width="905" height="944" alt="Screenshot 2026-07-03 071306" src="https://github.com/user-attachments/assets/adc5b3af-9917-4b58-a8b0-382413fbb645" />
 <img width="897" height="944" alt="Screenshot 2026-07-03 071327" src="https://github.com/user-attachments/assets/bac35379-b1d3-40ce-8604-8a7e208e5672" />
 
-What's one habit you've developed to avoid being influenced by misleading headlines or emotionally charged posts?
-#ABTalks #ClaudeAI #MediaLiteracy #CriticalThinking #BuildInPublic #PromptEngineering #DigitalLiteracy
-
-#ClaudeAI #AIChallenge #MediaLiteracy #BuildInPublic #100DaysOfCode #AIforGood #TechForGood #DataScience #StudentDeveloper #AfricaTech #NigeriaTech #LearningInPublic #FrontendDevelopment #DigitalLiteracy #FakeNews #CriticalThinking #AITools #WebDevelopment #STEM #FutureOfLearning
