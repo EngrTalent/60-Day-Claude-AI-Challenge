@@ -43,6 +43,14 @@ It should help people understand how to arrive at them📌.
 
 Day 32/60 of my Claude AI Mastery Challenge.
 
+<img width="1339" height="791" alt="Screenshot 2026-07-03 060505" src="https://github.com/user-attachments/assets/c0e84388-b251-44e4-b4c5-9a0b0c910c1e" />
+<img width="1208" height="761" alt="Screenshot 2026-07-03 061950" src="https://github.com/user-attachments/assets/acbd0adb-d9cc-4ca4-a6f5-8149ec3b50d7" />
+<img width="940" height="918" alt="Screenshot 2026-07-03 062210" src="https://github.com/user-attachments/assets/f91a78be-8349-41d9-8762-094a75cf997b" />
+<img width="970" height="913" alt="Screenshot 2026-07-03 064204" src="https://github.com/user-attachments/assets/d31cbde5-3098-4448-8e6a-dd78289dddb1" />
+<img width="984" height="924" alt="Screenshot 2026-07-03 064243" src="https://github.com/user-attachments/assets/3c03cbc6-276f-4b3e-a35a-2d48f7a11842" />
+<img width="978" height="905" alt="Screenshot 2026-07-03 064733" src="https://github.com/user-attachments/assets/b391a421-be09-4c71-beb8-4523edcdf4d2" />
+<img width="789" height="942" alt="Screenshot 2026-07-03 064837" src="https://github.com/user-attachments/assets/44ded4b8-02b5-4316-a2fe-2300141bcfec" />
+
 If you could redesign how one skill is taught, what would it be?
 #ABTalks #ClaudeAI #MarketingStrategy #PromptEngineering #BuildInPublic #AIEducation #LearningDesign
 
