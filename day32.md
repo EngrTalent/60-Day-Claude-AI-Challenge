@@ -50,8 +50,3 @@ Day 32/60 of my Claude AI Mastery Challenge.
 <img width="984" height="924" alt="Screenshot 2026-07-03 064243" src="https://github.com/user-attachments/assets/3c03cbc6-276f-4b3e-a35a-2d48f7a11842" />
 <img width="978" height="905" alt="Screenshot 2026-07-03 064733" src="https://github.com/user-attachments/assets/b391a421-be09-4c71-beb8-4523edcdf4d2" />
 <img width="789" height="942" alt="Screenshot 2026-07-03 064837" src="https://github.com/user-attachments/assets/44ded4b8-02b5-4316-a2fe-2300141bcfec" />
-
-If you could redesign how one skill is taught, what would it be?
-#ABTalks #ClaudeAI #MarketingStrategy #PromptEngineering #BuildInPublic #AIEducation #LearningDesign
-
-#60DaysOfClaudeAI #BuildInPublic #AIForBeginners #MarketingStrategy #PromptEngineering #StudentBuilder #TechTwitter #NoCodeAI #DigitalMarketing #PersonalBranding #AIEducation #LandmarkUniversity #TeeTronicsGadgets #ABTalks #ClaudeAI
