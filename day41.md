@@ -33,9 +33,3 @@ Day 41/60 of my Claude AI Mastery Challenge.
 <img width="938" height="944" alt="Screenshot 2026-07-11 121858" src="https://github.com/user-attachments/assets/75904aac-b13e-48ea-a413-6d52a4e535ee" />
 <img width="953" height="898" alt="Screenshot 2026-07-11 121928" src="https://github.com/user-attachments/assets/6f91fe77-255b-4480-9834-3fae3762a519" />
 
-
-What's one concept you only truly understood after seeing it visualized instead of explained? Let's know in the comment section😉
-
-#ABTalks #ClaudeAI #MachineLearning #ArtificialIntelligence #BuildInPublic #AIEducation #LearningByBuilding
-
-#60DaysOfClaude #AIEducation #MachineLearning #DataScience #ABTalks #BuildInPublic
