@@ -25,6 +25,15 @@ Because the best educational tools don't just explain ideas, they make those ide
 
 Day 41/60 of my Claude AI Mastery Challenge.
 
+<img width="1164" height="942" alt="Screenshot 2026-07-11 121433" src="https://github.com/user-attachments/assets/aa0ef2f0-bb6e-4b44-ac5d-bcdb1c6ae825" />
+<img width="1027" height="896" alt="Screenshot 2026-07-11 121530" src="https://github.com/user-attachments/assets/d07a12dc-dcac-4d69-bfed-caaaea0f3a04" />
+<img width="833" height="952" alt="Screenshot 2026-07-11 121700" src="https://github.com/user-attachments/assets/076c1d64-6315-47bc-baa4-99771b651f1a" />
+<img width="851" height="938" alt="Screenshot 2026-07-11 121729" src="https://github.com/user-attachments/assets/143a0eb9-4eb2-4e6f-8394-1bc53517a2e6" />
+<img width="866" height="957" alt="Screenshot 2026-07-11 121811" src="https://github.com/user-attachments/assets/926dcd77-4a1e-475f-b70a-4f723250b89c" />
+<img width="938" height="944" alt="Screenshot 2026-07-11 121858" src="https://github.com/user-attachments/assets/75904aac-b13e-48ea-a413-6d52a4e535ee" />
+<img width="953" height="898" alt="Screenshot 2026-07-11 121928" src="https://github.com/user-attachments/assets/6f91fe77-255b-4480-9834-3fae3762a519" />
+
+
 What's one concept you only truly understood after seeing it visualized instead of explained? Let's know in the comment section😉
 
 #ABTalks #ClaudeAI #MachineLearning #ArtificialIntelligence #BuildInPublic #AIEducation #LearningByBuilding
