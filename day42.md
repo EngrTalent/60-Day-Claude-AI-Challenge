@@ -30,7 +30,7 @@ Day 42/60 of my Claude AI Mastery Challenge.
 <img width="1505" height="939" alt="Screenshot 2026-07-12 173410" src="https://github.com/user-attachments/assets/d1a9a4f6-f97a-468e-b0d8-ef64f4043639" />
 <img width="1319" height="946" alt="Screenshot 2026-07-12 173428" src="https://github.com/user-attachments/assets/d34def7b-b191-4e64-a38e-72476b78025b" />
 <img width="1464" height="938" alt="Screenshot 2026-07-12 173447" src="https://github.com/user-attachments/assets/45118649-7ba9-4028-8659-51c1f30d341a" />
-<img width="1455" height="943" alt="Screenshot 2026-07-12 173558" src="https://github.com/user-attachments/assets/a9cc17c4-4e88-4e17-8cda-7274dcfff3e0" />
+<img width="1306" height="945" alt="Screenshot 2026-07-12 173524" src="https://github.com/user-attachments/assets/d0a56199-6f8c-4032-b1eb-932116ff5182" />
 <img width="1459" height="936" alt="Screenshot 2026-07-12 173544" src="https://github.com/user-attachments/assets/4b0678c6-f660-4761-95d0-62e7235ff5ef" />
 <img width="1455" height="943" alt="Screenshot 2026-07-12 173558" src="https://github.com/user-attachments/assets/8469504c-7f72-47c7-9b10-6e0969c07120" />
 <img width="1191" height="931" alt="Screenshot 2026-07-12 173627" src="https://github.com/user-attachments/assets/b2c76444-68b1-424c-b4bc-fd3b13d4f9a2" />
