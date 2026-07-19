@@ -28,10 +28,6 @@ And that's the approach I want to carry into every future AI workflow I build be
 
 Day 49/60 of my Claude AI Mastery Challenge.
 
-Do you still start every AI conversation from a blank prompt, or have you built a system that saves you time?
-
-#ABTalks #ClaudeAI #PromptEngineering #ArtificialIntelligence #SystemsThinking #BuildInPublic #LearningByBuilding
-
 <img width="1625" height="928" alt="image" src="https://github.com/user-attachments/assets/143aea89-cb73-4b94-9f3e-037269cc0c7f" />
 <img width="1456" height="943" alt="image" src="https://github.com/user-attachments/assets/30c7e198-8ea0-457e-b237-effff8489abd" />
 <img width="1441" height="941" alt="image" src="https://github.com/user-attachments/assets/d81801dc-e39f-4753-b579-ac5d5a7feccb" />
